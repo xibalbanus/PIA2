@@ -2,6 +2,29 @@
 ## Modified version of the Phylogenetically Informed Annotation tool (Speiser et al., 2014)
 
 
+
+
+
+_____________________________________
+
+I encourage everyone to have a look at a new PIA implementation that is available at: https://github.com/AlenaKizenko/pia3_amphipod_opsins
+
+Drozdova et al. (2021) have done a great job at packaging PIA and simplifying the installation via conda (among many other improvements). 
+
+Drozdova, P., Kizenko, A., Saranchina, A. et al. The diversity of opsins in Lake Baikal amphipods (Amphipoda: Gammaridae). BMC Ecol Evo 21, 81 (2021). https://doi.org/10.1186/s12862-021-01806-9
+
+
+_____________________________________
+
+
+
+
+
+
+
+
+*
+
 ### This collection of scripts is written in bash, perl, and python.
 ###
 ### Make sure dependencies are installed and configured before running.
