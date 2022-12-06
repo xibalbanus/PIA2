@@ -35,8 +35,9 @@ _____________________________________
  and
  https://bitbucket.org/osiris_phylogenetics/pia
 
-  Jorge L. Perez-Moreno, Danielle DeLeo, Heather D. Bracken-Grissom
-  CRUSTOMICS Lab at Florida International University 04/05/2017
+ Jorge L. Perez-Moreno, Danielle DeLeo, Heather D. Bracken-Grissom
+ CRUSTOMICS Lab at Florida International University 04/05/2017
+ 
 ------------------------------------------------------------------------------------------
 
 ### Setting PIA up is pretty simple:
