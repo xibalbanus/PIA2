@@ -1,4 +1,4 @@
-# PIA2
+## PIA2
 ## Modified version of the Phylogenetically Informed Annotation tool (Speiser et al., 2014)
 
 
@@ -7,12 +7,11 @@
 
 _____________________________________
 
-### I encourage everyone to have a look at a new PIA implementation that is available at: https://github.com/AlenaKizenko/pia3_amphipod_opsins
+ I encourage everyone to have a look at a new PIA implementation that is available at: https://github.com/AlenaKizenko/pia3_amphipod_opsins
 
-### Drozdova et al. (2021) have done a great job at packaging PIA and simplifying the installation via conda (among many other improvements). 
+ Drozdova et al. (2021) have done a great job at packaging PIA and simplifying the installation via conda (among many other improvements). 
 
-### Drozdova, P., Kizenko, A., Saranchina, A. et al. The diversity of opsins in Lake Baikal amphipods (Amphipoda: Gammaridae). BMC Ecol Evo 21, 81 (2021). https://doi.org/10.1186/s12862-021-01806-9
-
+ Drozdova, P., Kizenko, A., Saranchina, A. et al. The diversity of opsins in Lake Baikal amphipods (Amphipoda: Gammaridae). BMC Ecol Evo 21, 81 (2021). https://doi.org/10.1186/s12862-021-01806-9
 
 _____________________________________
 
@@ -42,7 +41,7 @@ _____________________________________
 
 ### Setting PIA up is pretty simple:
 
-	### - Edit pia.pl :
+	 - Edit pia.pl :
 		- Line 1:  This should reflect the actual path to your perl installation
 		- Line 15: Path to your PIA folder
 		- Line 18: Path to your LIT folder, usually within PIA’s unless you want it elsewhere
@@ -50,10 +49,10 @@ _____________________________________
 		- Lines 714 & 715: This should reflect the raxml version you’re using. The -T again is changeable to allocate CPU threads, and -m corresponds to the model of evolution for RAxML to use if customization is required. 
 		- Line 721: Modify path to PIA & phyutility
 
-	### - Edit pia/phyutility/phyutility
+	 - Edit pia/phyutility/phyutility
 		- Change Path to reflect your installation
 
-	### - Edit pia/phylographics/tab2trees.sh
+	 - Edit pia/phylographics/tab2trees.sh
 		- Change Paths in lines 3 & 15
 
 
