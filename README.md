@@ -40,9 +40,9 @@ _____________________________________
 ###  CRUSTOMICS Lab at Florida International University 04/05/2017
 ------------------------------------------------------------------------------------------
 
-## Setting PIA up is pretty simple:
+### Setting PIA up is pretty simple:
 
-	# - Edit pia.pl :
+	### - Edit pia.pl :
 		- Line 1:  This should reflect the actual path to your perl installation
 		- Line 15: Path to your PIA folder
 		- Line 18: Path to your LIT folder, usually within PIA’s unless you want it elsewhere
@@ -50,15 +50,15 @@ _____________________________________
 		- Lines 714 & 715: This should reflect the raxml version you’re using. The -T again is changeable to allocate CPU threads, and -m corresponds to the model of evolution for RAxML to use if customization is required. 
 		- Line 721: Modify path to PIA & phyutility
 
-	# - Edit pia/phyutility/phyutility
+	### - Edit pia/phyutility/phyutility
 		- Change Path to reflect your installation
 
-	# - Edit pia/phylographics/tab2trees.sh
+	### - Edit pia/phylographics/tab2trees.sh
 		- Change Paths in lines 3 & 15
 
 
-## The script run_pia.sh will run PIA and post-PIA on all fasta files in a given directory. 
-## Both run_pia.sh and post_pia.sh should be edited before running to adjust parameters.
+### The script run_pia.sh will run PIA and post-PIA on all fasta files in a given directory. 
+### Both run_pia.sh and post_pia.sh should be edited before running to adjust parameters.
 
 
 
