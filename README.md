@@ -24,19 +24,19 @@ _____________________________________
 
 *
 
-### This collection of scripts is written in bash, perl, and python.
-###
-### Make sure dependencies are installed and configured before running.
-### Dependencies include: BLAST, MAFFT, R (w/ ape and phytools packages), Perl, BioPerl, NumPy, SciPy, statsmodels (for python), Java, RAxML, USEARCH, … and any dependencies these might have.
-### 
-### Special thanks to Dr. Todd Oakley's lab at UCSB for the original galaxy scripts on 
-### which we have based this pipeline. Original versions can be found at:
-### https://bitbucket.org/osiris_phylogenetics/osiris_phylogenetics
-### and
-### https://bitbucket.org/osiris_phylogenetics/pia
-###
-###  Jorge L. Perez-Moreno, Danielle DeLeo, Heather D. Bracken-Grissom
-###  CRUSTOMICS Lab at Florida International University 04/05/2017
+ This collection of scripts is written in bash, perl, and python.
+
+ Make sure dependencies are installed and configured before running.
+ Dependencies include: BLAST, MAFFT, R (w/ ape and phytools packages), Perl, BioPerl, NumPy, SciPy, statsmodels (for python), Java, RAxML, USEARCH, … and any dependencies these might have.
+ 
+ Special thanks to Dr. Todd Oakley's lab at UCSB for the original galaxy scripts on 
+ which we have based this pipeline. Original versions can be found at:
+ https://bitbucket.org/osiris_phylogenetics/osiris_phylogenetics
+ and
+ https://bitbucket.org/osiris_phylogenetics/pia
+
+  Jorge L. Perez-Moreno, Danielle DeLeo, Heather D. Bracken-Grissom
+  CRUSTOMICS Lab at Florida International University 04/05/2017
 ------------------------------------------------------------------------------------------
 
 ### Setting PIA up is pretty simple:
